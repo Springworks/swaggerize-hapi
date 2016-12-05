@@ -20,7 +20,7 @@
     "hoek": "^2.6.0",
     "joi": "^6.6.1",
     "js-yaml": "^3.2.6",
-    "swaggerize-routes": "^1.0.3"
+    "swaggerize-routes": "^1.0.10"
   },
   "devDependencies": {
     "boom": "~2.8.0",
